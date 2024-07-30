@@ -1,0 +1,3 @@
+onLeave: false;
+
+## Type true if you want to remove vanish from a player when he leaves the server.
